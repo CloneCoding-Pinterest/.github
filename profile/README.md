@@ -2,8 +2,8 @@
 
 [![Video Label](https://github.com/CloneCoding-Pinterest/.github/blob/main/profile/Logo.png)](https://www.youtube.com/watch?v=CKPe-mgq-iA)
 
-- 동영상 :
-- 서비스 주소 :
+- 동영상 : https://youtu.be/CKPe-mgq-iA
+- 서비스 주소 : http://54.180.147.194
 - 노션 [7주차 클론 코딩, Pinterest](https://www.notion.so/7-8bd521151d034477ba4cb126f3729a1c)
 - FE Repo [CloneCoding-Pinterest / PinterestFE](https://github.com/CloneCoding-Pinterest/PinterestFE)
 - BE Repo [CloneCoding-Pinterest / PinterestBE](https://github.com/CloneCoding-Pinterest/PinterestBE)
