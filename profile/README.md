@@ -16,7 +16,7 @@
 
 | 성함  | GitHub    | Contact |
 | :---- | :-------- | :-----: |
-| 이민영 | [@mi](https://github.com/minongarm2arm) | - |
+| 이민영 | [@mi](https://github.com/minongarm2arm) | [Velog](https://velog.io/@unchapterd) |
 | 조영은 | [@yeun38](https://github.com/yeun38) | - |
 | 문창용 | [@cmun2](https://github.com/cmun2) | - |
 | 이민석 | [@unchaptered](https://github.com/unchaptered) | - |
