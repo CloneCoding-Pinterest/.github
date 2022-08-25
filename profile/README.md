@@ -10,7 +10,7 @@
 
 ## 서비스 아키텍쳐
 
-<a align="center"><img src="https://github.com/CloneCoding-Pinterest/.github/blob/main/profile/Pinterest%205%20-%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png" style="width: 100%"></a>
+<a align="center"><img src="https://github.com/CloneCoding-Pinterest/.github/blob/main/profile/Pinterest%205%20-%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png"></a>
 
 ## 팀원
 
