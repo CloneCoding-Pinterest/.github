@@ -1,6 +1,6 @@
-# Pinterest 클론 코딩
+# Pinterest 클론 코딩 
 
-<a align="center"><img src="https://github.com/CloneCoding-Pinterest/.github/blob/main/profile/Logo.png" ></a>
+[![Video Label](https://github.com/CloneCoding-Pinterest/.github/blob/main/profile/Logo.png)](https://www.youtube.com/watch?v=CKPe-mgq-iA)
 
 - 동영상 :
 - 서비스 주소 :
